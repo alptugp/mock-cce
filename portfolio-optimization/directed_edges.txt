@@ -1,0 +1,18 @@
+{ "USD/CAD","USD/JPY","USDT/CAD","USDT/AUD","USDT/GBP","USDT/USD","USDT/EUR","USDT/JPY","ETH/CAD","ETH/AUD","ETH/USDC","ETH/BTC","ETH/GBP","ETH/USD","ETH/EUR","ETH/JPY","ETH/USDT","XRP/CAD","XRP/AUD","XRP/BTC","XRP/ETH","XRP/GBP","XRP/USD","XRP/EUR","XRP/USDT","EUR/CAD","EUR/AUD","EUR/GBP","EUR/USD","EUR/JPY","BTC/CAD","BTC/AUD","BTC/USDC","BTC/GBP","BTC/USD","BTC/EUR","BTC/JPY","BTC/USDT","BCH/AUD","BCH/BTC","BCH/ETH","BCH/GBP","BCH/USD","BCH/EUR","BCH/JPY","BCH/USDT","GBP/USD","ADA/AUD","ADA/BTC","ADA/ETH","ADA/GBP","ADA/USD","ADA/EUR","ADA/USDT","AUD/USD","AUD/JPY","LTC/AUD","LTC/BTC","LTC/ETH","LTC/GBP","LTC/USD","LTC/EUR","LTC/JPY","LTC/USDT","SOL/AUD","SOL/BTC","SOL/ETH","SOL/GBP","SOL/USD","SOL/EUR","SOL/USDT","DOT/BTC","DOT/ETH","DOT/GBP","DOT/USD","DOT/EUR","DOT/JPY","DOT/USDT","USDC/CAD","USDC/AUD","USDC/GBP","USDC/USD","USDC/EUR","USDC/USDT","LINK/AUD","LINK/BTC","LINK/ETH","LINK/GBP","LINK/USD","LINK/EUR","LINK/JPY","LINK/USDT", };
+{
+    {"USD", {"CAD", "JPY"}},
+    {"USDT", {"CAD", "AUD", "GBP", "USD", "EUR", "JPY"}},
+    {"ETH", {"CAD", "AUD", "USDC", "BTC", "GBP", "USD", "EUR", "JPY", "USDT"}},
+    {"XRP", {"CAD", "AUD", "BTC", "ETH", "GBP", "USD", "EUR", "USDT"}},
+    {"EUR", {"CAD", "AUD", "GBP", "USD", "JPY"}},
+    {"BTC", {"CAD", "AUD", "USDC", "GBP", "USD", "EUR", "JPY", "USDT"}},
+    {"BCH", {"AUD", "BTC", "ETH", "GBP", "USD", "EUR", "JPY", "USDT"}},
+    {"GBP", {"USD"}},
+    {"ADA", {"AUD", "BTC", "ETH", "GBP", "USD", "EUR", "USDT"}},
+    {"AUD", {"USD", "JPY"}},
+    {"LTC", {"AUD", "BTC", "ETH", "GBP", "USD", "EUR", "JPY", "USDT"}},
+    {"SOL", {"AUD", "BTC", "ETH", "GBP", "USD", "EUR", "USDT"}},
+    {"DOT", {"BTC", "ETH", "GBP", "USD", "EUR", "JPY", "USDT"}},
+    {"USDC", {"CAD", "AUD", "GBP", "USD", "EUR", "USDT"}},
+    {"LINK", {"AUD", "BTC", "ETH", "GBP", "USD", "EUR", "JPY", "USDT"}}
+}

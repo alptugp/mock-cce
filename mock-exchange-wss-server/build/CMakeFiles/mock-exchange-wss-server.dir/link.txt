@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/mock-exchange-wss-server.dir/mock-exchange-wss-server.cpp.o  -o mock-exchange-wss-server  -lpthread -lcrypto -lssl /usr/local/lib/libwebsockets.a /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so -lpthread /usr/lib/x86_64-linux-gnu/libcap.so 

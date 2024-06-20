@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aap221/mock-exchange/mock-exchange-wss-server/mock-exchange-wss-server.cpp
+libwebsockets.h
+-
+string.h
+-
+signal.h
+-
+fstream
+-
+iostream
+-
+vector
+-
+ctime
+-
+chrono
+-
+nlohmann/json.hpp
+-
+regex
+-
+
